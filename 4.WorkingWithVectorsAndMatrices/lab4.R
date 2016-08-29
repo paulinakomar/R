@@ -14,4 +14,4 @@ for(i in 1:100){
 }
 
 show(sum(my.negatives))
-return(summary(my.negative.values))
+summary(my.negative.values)
